@@ -1,0 +1,13 @@
+{
+    "name": "Arturito",
+    "lastName": "Huncho",
+    "email": "arturitor@hucho.io",
+    "gender": "Male",
+    "mobile": 2022295001,
+    "subject": "Economics",
+    "hobby": "Music",
+    "currentAddress": "Some random address",
+    "state": "NCR",
+    "city": "Delhi",
+    "imagePath":"cypress/files/goofy.png"
+  }

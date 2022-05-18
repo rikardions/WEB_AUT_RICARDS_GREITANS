@@ -1,0 +1,22 @@
+{
+  "name": "web_aut_ricards_greitans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikardions/WEB_AUT_RICARDS_GREITANS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikardions/WEB_AUT_RICARDS_GREITANS/issues"
+  },
+  "homepage": "https://github.com/rikardions/WEB_AUT_RICARDS_GREITANS#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
